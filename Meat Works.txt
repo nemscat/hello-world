@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Welcome to meat works!
-======================
-
-This is the original file we were working on. There should be some improvements coming up in the next couple of weeks and months.
-=======
-Just another file for meat works by Judith Maylor.
-<<fill in details here>>
->>>>>>> cc0b5d70b11c4589898ad4c95971740ccb8a34d4
