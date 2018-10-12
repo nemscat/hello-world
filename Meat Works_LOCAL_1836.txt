@@ -1,4 +1,0 @@
-Welcome to meat works!
-======================
-
-This is the original file we were working on. There should be some improvements coming up in the next couple of weeks and months.
